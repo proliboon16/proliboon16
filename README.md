@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @proliboon16
-- 👀 I’m interested in Web Applications and Hardware...
-- 🌱 I’m currently learning SketchUp Ruby...
+I can never not find anything interesting.
 
 <!---
 proliboon16/proliboon16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
