@@ -1,4 +1,4 @@
-I can never not find anything interesting.
+Hey, it works!
 
 <!---
 proliboon16/proliboon16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
